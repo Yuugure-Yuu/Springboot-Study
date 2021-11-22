@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e1e78d9-4bb4-4077-9d62-209fa72692ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sfK2Ft9UKVL1gfJNi8fpLRWzGL" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RunManager" selected="JUnit.Springboot02ConfigApplicationTests.contextLoads">
+    <configuration name="Springboot02ConfigApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-02-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.Springboot02ConfigApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot02ConfigApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-02-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.Springboot02ConfigApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.Springboot02ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Program Files/JetBrains/springboot/springboot-02-config/src/main/resources/application.yaml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="springboot-02-config" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/application.yaml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot02ConfigApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot02ConfigApplicationTests" />
+        <item itemvalue="TestNG.D:/Program Files/JetBrains/springboot/springboot-02-config/src/main/resources/application.yaml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e1e78d9-4bb4-4077-9d62-209fa72692ca" name="Default Changelist" comment="" />
+      <created>1621257994900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621257994900</updated>
+      <workItem from="1621258003098" duration="6455000" />
+      <workItem from="1621326364001" duration="1481000" />
+      <workItem from="1621338505585" duration="5209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1049" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1621259356029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1049" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1621259356029" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1621326342011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1621326342011" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1621326342011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1621326342011" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1621326342011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1621326342011" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1621326342011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1621326342011" />
+    <state x="544" y="66" key="SettingsEditor" timestamp="1621260987283">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="544" y="66" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1621260987283" />
+    <state x="356" y="141" key="new project wizard" timestamp="1621390123219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="356" y="141" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1621390123219" />
+    <state x="894" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1621261334865">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="894" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1621261334865" />
+  </component>
+</project>
