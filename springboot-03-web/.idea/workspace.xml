@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecc6684e-fd44-44df-be15-27ffa7fdef21" name="Default Changelist" comment="" />
+    <list default="true" id="ecc6684e-fd44-44df-be15-27ffa7fdef21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1sjdqULmmSJKn5BjxN5w4Wpsnlc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,9 +41,11 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot2/boot-01-helloworld" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -72,6 +81,10 @@
       <workItem from="1622701627432" duration="1107000" />
       <workItem from="1623720409342" duration="17000" />
       <workItem from="1637305436975" duration="783000" />
+      <workItem from="1638578537849" duration="3581000" />
+      <workItem from="1638678577233" duration="595000" />
+      <workItem from="1638688885236" duration="473000" />
+      <workItem from="1638689378955" duration="324000" />
     </task>
     <servers />
   </component>
@@ -79,49 +92,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="929" y="133" width="467" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1622599604031">
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1638678352187">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="929" y="133" width="467" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1622599604031" />
-    <state width="906" height="301" key="GridCell.Tab.0.bottom" timestamp="1621515523400">
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1638678352187" />
+    <state x="272" y="62" key="SettingsEditor" timestamp="1638678323519">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="906" height="301" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state width="906" height="301" key="GridCell.Tab.0.center" timestamp="1621515523400">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="906" height="301" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state width="906" height="301" key="GridCell.Tab.0.left" timestamp="1621515523400">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="906" height="301" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state width="906" height="301" key="GridCell.Tab.0.right" timestamp="1621515523400">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="906" height="301" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state width="906" height="301" key="GridCell.Tab.1.bottom" timestamp="1621515523400">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="906" height="301" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state width="906" height="301" key="GridCell.Tab.1.center" timestamp="1621515523400">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="906" height="301" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state width="906" height="301" key="GridCell.Tab.1.left" timestamp="1621515523400">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="906" height="301" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state width="906" height="301" key="GridCell.Tab.1.right" timestamp="1621515523400">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="906" height="301" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1621515523400" />
-    <state x="544" y="60" key="SettingsEditor" timestamp="1621999897247">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="544" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1621999897247" />
-    <state x="934" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1622621428315">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="934" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1622621428315" />
+    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1638678323519" />
   </component>
 </project>
